@@ -42,7 +42,6 @@ Does a wizard-style multi-step interface improve the success, efficiency, or smo
 ├── report/
 │   └── project3_final_report.pdf
 ├── analysis/
-│   ├── analysis.R
 │   └── figures/
 └── logs/
     ├── session_events.csv
